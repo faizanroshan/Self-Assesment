@@ -1,3 +1,12 @@
+/*
+    *
+   **
+  ***
+ ****
+*****
+
+*/
+
 #include <stdio.h>
 
 void patternMethod1( int inputVal) {

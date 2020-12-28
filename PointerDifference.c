@@ -23,6 +23,4 @@ int main () {
     ptr2 = &num2;
     
     differenceTwoNumbers(ptr1, ptr2);
-    
-
 }
